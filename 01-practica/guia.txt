@@ -1,0 +1,87 @@
+Descarga de ubuntu y VirtualBox
+
+1. Abre el navegador de tu computadora.
+
+2. Busca **VirtualBox** en Google.
+
+3. Entra a la página oficial de VirtualBox.
+
+4. Descarga la versión que corresponda a tu sistema operativo.
+
+5. Espera a que termine la descarga.
+
+6. Busca **Ubuntu 16.04** en Google.
+
+7. Entra a la página de versiones anteriores de Ubuntu.
+
+8. Descarga **Ubuntu 16.04 de 64 bits** en formato `.iso`.
+
+9. Espera a que termine la descarga.
+
+10. Instala VirtualBox en tu computadora.
+
+11. Abre VirtualBox.
+
+Creacion de la maquina virtual 
+
+1.Abre VirtualBox.
+
+2.Da clic en "Nueva" para crear una máquina virtual.
+
+3.En "VM Name" escribe un nombre para la máquina.
+
+4.En "VM Folder" selecciona la carpeta donde se guardará la máquina virtual.
+
+5.En "ISO Image" selecciona el archivo de Ubuntu que descargaste.
+
+6.Verifica que aparezca Linux como sistema operativo y Ubuntu como distribución.
+
+7.Desmarca la opción "Proceed with Unattended Installation".
+
+9.Abre la sección "Specify virtual hardware".
+
+10.Asigna la memoria RAM que utilizará la máquina virtual. Se pueden utilizar aproximadamente 2 GB o 4 GB.
+
+11.Selecciona la cantidad de procesadores que utilizará la máquina virtual.
+
+12.Abre la sección "Specify virtual hard disk".
+
+13.Crea un disco duro virtual de aproximadamente 20 GB o más.
+
+14.Presiona "Terminar".
+
+15.Selecciona la máquina virtual que acabas de crear.
+
+16.Presiona "Iniciar" para comenzar la instalación de Ubuntu.
+
+Visual Studio Code, GIT, Github.
+
+1.Buscar Visual Studio Code en algún navegador.
+
+2.Entrar a la página oficial y descargarlo según el sistema operativo.
+
+3.Buscar la página oficial de Git y descargarlo.
+
+4.Instalar Git en la computadora.
+
+5.Buscar la página de GitHub.
+
+6.Crear una cuenta poniendo los datos que pide la página.
+
+7.Abrir VS Code y dar clic en el icono de la cuenta.
+
+8.Seleccionar “Iniciar sesión con GitHub”.
+
+9.Se abrirá el navegador, ahí iniciar sesión con la cuenta de GitHub.
+
+10.Aceptar los permisos para conectar GitHub con VS Code.
+
+11.Regresar a VS Code y abrir la carpeta donde se va a trabajar.
+
+12.Ir a Control de código fuente.
+
+13.Si todavía no está iniciado Git, dar clic en “Initialize Repository”.
+
+14.Crear una carpeta llamada “01-practica”.
+
+15.Dentro de la carpeta crear un archivo de texto llamado “guia.txt”.
