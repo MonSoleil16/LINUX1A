@@ -2,7 +2,7 @@ Descarga de ubuntu y VirtualBox
 
 1. Abre el navegador de tu computadora.
 
-2. Busca **VirtualBox** en Google.
+2. Busca VirtualBox en Google.
 
 3. Entra a la página oficial de VirtualBox.
 
@@ -10,11 +10,11 @@ Descarga de ubuntu y VirtualBox
 
 5. Espera a que termine la descarga.
 
-6. Busca **Ubuntu 16.04** en Google.
+6. Busca Ubuntu 16.04 en Google.
 
 7. Entra a la página de versiones anteriores de Ubuntu.
 
-8. Descarga **Ubuntu 16.04 de 64 bits** en formato `.iso`.
+8. Descarga Ubuntu 16.04 de 64 bits en formato .iso.
 
 9. Espera a que termine la descarga.
 
@@ -85,3 +85,16 @@ Visual Studio Code, GIT, Github.
 14.Crear una carpeta llamada “01-practica”.
 
 15.Dentro de la carpeta crear un archivo de texto llamado “guia.txt”.
+
+Subir un archivo a GitHub desde VSCodium
+
+1.Ir a "Control de codigo de fuente".
+
+2.Dar clic en cambios.
+
+3.Presionar el botón con forma de + al lado del documento.
+
+4.Agregar mensaje para tener más orden.
+
+5.Dar clic en confirmar.
+
